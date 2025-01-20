@@ -1,0 +1,17 @@
+.casilla{
+    height: 50px;
+    width: 50px;
+}
+
+.negro{
+    background-color: #2a2a2a;
+}
+
+.blanco{
+    background-color: #dcdcdc;
+}
+
+.fila{
+    display: flex;
+    flex-direction: row;
+}
